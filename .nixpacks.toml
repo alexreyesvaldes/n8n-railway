@@ -3,3 +3,6 @@ nixPkgs = ["nodejs_20"]
 
 [variables]
 NODE_ENV = "production"
+
+[start]
+cmd = "n8n start"
