@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "n8n": "^1.106.3",
-    "better-sqlite3": "^8.4.0"
+    "better-sqlite3": "^5.1.2"
   }
 }
