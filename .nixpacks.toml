@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ["nodejs_20", "python3", "make", "gcc", "glibc", "pkg-config"]
+nixPkgs = ["nodejs_20"]
 
 [variables]
 NODE_ENV = "production"
