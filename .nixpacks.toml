@@ -5,4 +5,5 @@ nixPkgs = ["nodejs_22"]
 cmds = ["npm install"]
 
 [start]
-cmd = "./node_modules/.bin/n8n start"
+[start]
+cmd = "PORT=$PORT ./node_modules/.bin/n8n start"
