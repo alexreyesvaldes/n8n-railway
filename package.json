@@ -1,6 +1,9 @@
-{{
+{
   "name": "n8n-server",
   "version": "1.0.0",
+  "scripts": {
+    "start": "npx n8n"
+  },
   "dependencies": {
     "n8n": "^1.43.1"
   }
