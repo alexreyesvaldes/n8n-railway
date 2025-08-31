@@ -5,4 +5,4 @@ nixPkgs = ["nodejs_22"]
 cmds = ["npm install"]
 
 [start]
-cmd = "bash ./start-with-tunnel.sh"
+cmd = n8n start --tunnel
