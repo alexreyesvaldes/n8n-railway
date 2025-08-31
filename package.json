@@ -1,9 +1,6 @@
 {
   "name": "n8n-server",
   "version": "1.0.0",
-  "scripts": {
-    "start": "n8n start"
-  },
   "dependencies": {
     "n8n": "^1.43.1",
     "pg": "^8.10.0",
