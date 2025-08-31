@@ -1,2 +1,1 @@
-const { start } = require("n8n");
-start();
+web: n8n start --tunnel
