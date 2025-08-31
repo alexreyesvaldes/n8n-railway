@@ -5,4 +5,4 @@ nixPkgs = ["nodejs_18"]
 cmds = ["npm install"]
 
 [start]
-cmd = "npx n8n start --tunnel"
+cmd = "npx n8n start"
