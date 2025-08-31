@@ -1,5 +1,8 @@
 [phases.setup]
 nixPkgs = ["nodejs_20"]
 
+[phases.install]
+cmds = ["npm install n8n"]
+
 [start]
-cmd = "n8n"
+cmd = "npx n8n"
