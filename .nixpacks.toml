@@ -5,4 +5,4 @@ nixPkgs = ["nodejs_22"]
 cmds = ["npm install"]
 
 [start]
-cmd = "npx n8n start"
+cmd = "n8n start"
