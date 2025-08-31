@@ -1,1 +1,2 @@
-require('n8n');
+const { start } = require("n8n");
+start();
