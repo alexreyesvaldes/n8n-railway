@@ -5,9 +5,8 @@
     "start": "n8n start"
   },
   "dependencies": {
-  "n8n": "1.106.3",
-  "n8n-nodes-telegram": "^1.2.0"
-}
+    "n8n": "1.106.3",
+    "n8n-nodes-telegram": "^1.2.0"
   },
   "engines": {
     "node": ">=20.19 <=24.x"
