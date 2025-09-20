@@ -1,1 +1,1 @@
-web: n8n start --tunnel
+web: n8n start
