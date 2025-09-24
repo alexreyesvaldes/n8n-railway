@@ -5,4 +5,4 @@ nixPkgs = ["nodejs_22", "ffmpeg"]
 cmds = ["npm install"]
 
 [start]
-cmd = "n8n start"
+cmd = "npm start"
